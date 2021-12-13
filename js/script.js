@@ -27,7 +27,7 @@ const generar = () => {
             show.lastElementChild.style.justifyContent = "center";
             show.lastElementChild.style.alignItems = "center";
             show.lastElementChild.firstElementChild.style.fontSize = "1.15rem";
-            show.lastElementChild.firstElementChild.style.fontFamily = "font-family: 'Red Rose', cursive;";
+            show.lastElementChild.firstElementChild.style.fontFamily = "Candara";
         }
         else if(ch_shape.value == "circulo")
         {
@@ -40,7 +40,7 @@ const generar = () => {
             show.lastElementChild.style.justifyContent = "center";
             show.lastElementChild.style.alignItems = "center";
             show.lastElementChild.firstElementChild.style.fontSize = "1.15rem";
-            show.lastElementChild.firstElementChild.style.fontFamily = "font-family: 'Red Rose', cursive;";
+            show.lastElementChild.firstElementChild.style.fontFamily = "Candara";
         }
         ch_name.value = "";
         ch_color.value = "#FFFFFF";
