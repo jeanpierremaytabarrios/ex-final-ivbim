@@ -26,7 +26,7 @@ const generar = () => {
             show.lastElementChild.style.flexDirection = "row";
             show.lastElementChild.style.justifyContent = "center";
             show.lastElementChild.style.alignItems = "center";
-            show.lastElementChild.firstElementChild.style.fontSize = "1.15rem";
+            show.lastElementChild.firstElementChild.style.fontSize = "6rem";
             show.lastElementChild.firstElementChild.style.fontFamily = "Candara";
         }
         else if(ch_shape.value == "circulo")
@@ -39,7 +39,7 @@ const generar = () => {
             show.lastElementChild.style.flexDirection = "row";
             show.lastElementChild.style.justifyContent = "center";
             show.lastElementChild.style.alignItems = "center";
-            show.lastElementChild.firstElementChild.style.fontSize = "1.15rem";
+            show.lastElementChild.firstElementChild.style.fontSize = "6rem";
             show.lastElementChild.firstElementChild.style.fontFamily = "Candara";
         }
         ch_name.value = "";
